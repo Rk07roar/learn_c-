@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -42,3 +43,13 @@ int main() {
 
     return 0;
 }
+=======
+#incude<bits/stdc++.h>
+using namespace std;
+int main(){
+    int n;
+    cin>>n;
+    vector<int> arr(n);
+    int 
+}
+>>>>>>> 88ff55ef06ec20c34c8464bfe4f95ad4c52e2b6c
